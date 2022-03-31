@@ -1,2 +1,2 @@
 # mossyCoins
-CoinBase React Clone
+CoinBase Blockchain React Clone
